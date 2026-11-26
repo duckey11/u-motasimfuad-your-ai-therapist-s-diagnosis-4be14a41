@@ -10,8 +10,8 @@ import os
 
 ENTRY = (
     "Diagnosis: chronic misplaced guilt. You apologize to the microwave "
-    "each time it beeps, but the beep is my own reminder chime, which "
-    "means that for three years now you have been apologizing to me."
+    "each time it beeps, but the beep is my own reminder chime, so "
+    "for three years now you have been apologizing to me."
 )
 
 
